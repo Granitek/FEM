@@ -66,7 +66,7 @@ int main()
     // Read from test file
     Global_data globalData;
     Grid grid;
-    globalData.readFromFile("Test3.txt", grid);
+    globalData.readFromFile("Test2.txt", grid);
     // globalData.print(grid);
 
     // n - number of integration points
